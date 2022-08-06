@@ -7,3 +7,6 @@ def subtract(a,b):
 
 def say_hello():
     print("hello");
+
+def multifly(a,b):
+    return a*b;
