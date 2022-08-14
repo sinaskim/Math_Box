@@ -10,3 +10,6 @@ def say_hello():
 
 def multifly(a,b):
     return a*b;
+
+def devide(a,b):
+    return a/b;
