@@ -13,3 +13,6 @@ def multifly(a,b):
 
 def devide_premium(a,b):
     return a/b;
+
+def square(a):
+    return a*a;
