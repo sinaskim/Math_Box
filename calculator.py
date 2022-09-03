@@ -19,3 +19,8 @@ def getMedian(a, b):
     
 def getRemainder(a, b):
     return a//b;
+def devide_premium(a,b):
+    return a/b;
+
+def getPercent(a, b):
+    return (a/b) * 100;
