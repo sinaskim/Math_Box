@@ -24,3 +24,7 @@ def devide_premium(a,b):
 
 def getPercent(a, b):
     return (a/b) * 100;
+    return (a+b)/2
+
+def getSum_ver1(n):
+    return n(n+1)/2
